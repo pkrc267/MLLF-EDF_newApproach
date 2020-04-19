@@ -1,5 +1,7 @@
 # MLLF with EDF
 -----------------------------------------------------------------
+Approach: instead of making a queue of ready jobs, I have tried to use a complete job-list before scheduling
+-----------------------------------------------------------------
 
 Directory structure:<br>
 <br>
